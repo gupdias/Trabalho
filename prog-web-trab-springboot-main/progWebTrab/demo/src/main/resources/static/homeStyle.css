@@ -1,0 +1,31 @@
+body{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 50px;
+}
+
+.boxWrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+gap: 10px;
+}
+.labelWrapper{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+ gap: 50px;
+}
+.labelWrapper img{
+width: 40px;
+}
+a{
+  width: 100%;
+}
+
+button{
+  width: 100%;
+ }
